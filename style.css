@@ -1,0 +1,72 @@
+.hello{
+font-size: 50px;
+}
+h1 {
+	color: white;
+    font-size: 51px;
+    text-align: center;
+    background: black;
+    margin-top: 19px;
+}
+.kotek
+{
+	text-align: center;
+    color: white;
+	
+}
+.srodek
+{
+	    background: black;
+		float:left;
+		width: 70%;
+		height:700px;
+		
+}
+.lewa
+{ 
+width: 15%;
+height: 700px;
+float:left;
+color: black;
+font-weight: bold;
+background-color:white;
+}
+.podloga
+{ 
+height: 50px;
+width: 100%;
+background-color: white;
+clear: both;
+color: white;
+}
+.prawa
+{
+background-color: white;
+float:left;
+height: 700px;
+width: 15%;
+}
+.linkmenu:link{
+text-decoration: none;
+}
+.srodekh
+{
+color:white;
+margin-left: 50px;
+    margin-right: 50px;
+    text-align: justify;
+}
+li{
+    padding-bottom: 20px;
+list-style-type: none;
+}
+ul{
+	    margin-top: 165px;
+}
+body {
+background: mediumturquoise;
+}
+a:hover{
+color:white;
+font-size:20px;	
+}
